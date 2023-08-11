@@ -1,0 +1,17 @@
+{
+    "name": "github-discord-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for GitHub notifications",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Wick",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "discord.js": "^12.5.3",
+        "node-cron": "^3.0.2"
+    }
+}
